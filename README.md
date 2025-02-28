@@ -1,0 +1,2 @@
+# django-ex
+ for hobby
